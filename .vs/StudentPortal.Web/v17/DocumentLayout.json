@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD1FAE7-D323-4ACC-BA39-97D5BA350DF4}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\ehsan\\documents\\ehsan\\programming\\vs  project\\studentportal.web\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2AD1FAE7-D323-4ACC-BA39-97D5BA350DF4}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD1FAE7-D323-4ACC-BA39-97D5BA350DF4}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\ehsan\\documents\\ehsan\\programming\\vs  project\\studentportal.web\\studentportal.web\\migrations\\20240923183551_addcategurytodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD1FAE7-D323-4ACC-BA39-97D5BA350DF4}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\20240923183551_addcategurytodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD1FAE7-D323-4ACC-BA39-97D5BA350DF4}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\ehsan\\documents\\ehsan\\programming\\vs  project\\studentportal.web\\studentportal.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD1FAE7-D323-4ACC-BA39-97D5BA350DF4}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\StudentPortal.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\StudentPortal.Web\\appsettings.json",
-              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T18:41:02.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:38:42.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240923183551_AddCateguryToDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\20240923183551_AddCateguryToDataBase.cs",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\20240923183551_AddCateguryToDataBase.cs",
-              "ToolTip": "C:\\Users\\ehsan\\Documents\\EHSAN\\Programming\\VS  Project\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\20240923183551_AddCateguryToDataBase.cs",
-              "RelativeToolTip": "StudentPortal.Web\\Migrations\\20240923183551_AddCateguryToDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:38:39.679Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
